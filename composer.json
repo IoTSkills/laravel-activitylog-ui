@@ -1,11 +1,11 @@
 {
-	"name": "damms005/laravel-activitylog-ui",
+	"name": "iotskills/laravel-activitylog-ui",
 	"description": "A Voyager-powered UI for the spatie/laravel-activitylog package that we all love!",
 	"type": "library",
 	"authors": [
 		{
-			"name": "Damilola Olowookere",
-			"email": "damms005@gmail.com"
+			"name": "IoT Skills",
+			"email": "zsk@iotskills.hum"
 		}
 	],
 	"license": "MIT",
